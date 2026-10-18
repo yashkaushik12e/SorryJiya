@@ -97,7 +97,7 @@ export default function App() {
           <div className="sticker">🥰</div>
           <h1 className="fade">{NAME ? `Thank you, ${NAME}!` : 'Thank you!'}</h1>
           <p className="sub fade">
-            You just made me the happiest person alive. I promise to do better. 💖
+            "Taras gye aap ke deedar ko, Dil fir Bhi Aap ka intezar karta hai".. "Humse Acha to aap ke ghr ka aiina hai Jo har roz App ka deedar karta hai"
           </p>
           <div className="fade" style={{ fontSize: 34, letterSpacing: 8 }}>🧸💞🌷</div>
           {FROM && (
